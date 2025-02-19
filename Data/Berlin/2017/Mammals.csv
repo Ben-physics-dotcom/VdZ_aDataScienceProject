@@ -1,0 +1,161 @@
+groupName;latinVersion;mammals;mammalia;passtYear;mPy;wPy;uPy;born;mB;wB;uB;wayIn;mWi;wWi;uWi;died;mD;wD;uD;wayOut;mWo;wWo;uWo;currentYear;mCy;wCy;uCy
+Beuteltiere;Marsupialia;Parma Känguru;Macropus parma;2016;5;4;0;geboren;3;0;1;Zugänge;0;0;0;gestorben;1;1;0;Abgabe;0;0;0;2017;7;3;1
+Beuteltiere;Marsupialia;Rotes Riesenkänguru;Macropus rufus;2016;1;4;2;geboren;1;1;0;Zugänge;0;0;0;gestorben;0;1;0;Abgabe;2;1;0;2017;2;3;0
+Tanrekartige;Insectivora;Kleiner Igeltanrek;Echinops telfairi;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Röhrchenzähner;Tubulidendata;Erdferkel;Orycteropus afer;2016;1;1;0;geboren;1;0;1;Zugänge;0;0;0;gestorben;1;0;1;Abgabe;0;0;0;2017;1;1;0
+Rüsseltiere;Proboscidae;Asiatischer Elefant;Elephas maximus;2016;1;6;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;6;0
+Zahnarme;Pilosa;Weißborstengürteltier;Euphractus sexcinctus;2016;3;2;0;geboren;0;2;1;Zugänge;0;0;0;gestorben;0;2;1;Abgabe;2;0;0;2017;1;2;0
+Zahnarme;Pilosa;Südliches Kugelgürteltier;Tolypiotes matacus;2016;1;2;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;1;0;2017;2;1;0
+Zahnarme;Pilosa;Zweifingerfaultier;Choloepus didactylus;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Zahnarme;Pilosa;Großer Ameisenbär;Myrmecophaga tridactyla;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Primaten;Primates;Grauer Mausmaki;Microcebus murinus;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Primaten;Primates;Weißkopfmaki;Eulemur albifrons;2016;4;2;0;geboren;0;1;0;Zugänge;0;0;0;gestorben;0;1;0;Abgabe;1;0;0;2017;3;2;0
+Primaten;Primates;Bengalischer Plumplori;Nycticebus bengalensis;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Primaten;Primates;Plumplori;Nycticebus coucang;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Primaten;Primates;Senegal-Galago;Galago senegalensis;2016;2;5;0;geboren;1;0;4;Zugänge;0;0;0;gestorben;0;0;4;Abgabe;0;0;0;2017;3;5;0
+Primaten;Primates;Springtamarin;Callimico goeldii;2016;2;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;1;0
+Primaten;Primates;Geoffroys Seidenäffchen;Callithrix geoffroyi;2016;1;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;1;0;2017;1;2;0
+Primaten;Primates;Schwarzrücken-Tamarin;Saguinus nigricollis;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Primaten;Primates;Lisztaffe;Saguinus oedipus;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Primaten;Primates;Brauner Kapuziner;Cebus olivaceus;2016;4;3;1;geboren;0;0;1;Zugänge;0;0;0;gestorben;1;0;0;Abgabe;0;0;0;2017;4;3;1
+Primaten;Primates;Totenkopfäffchen;Saimiri sciureus;2016;3;11;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;6;0;2017;2;5;0
+Primaten;Primates;Bolivien-Nachtaffe;Aotus azarae;2016;3;3;0;geboren;0;0;1;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;3;1
+Primaten;Primates;Roter Springaffe;Callicebus cupreus;2016;2;2;1;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;2;0
+Primaten;Primates;Schwarzer Brüllaffe;Alouatta caraya;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Primaten;Primates;Braunkopfklammeraffe;Ateles fusciceps;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Primaten;Primates;Eulenkopf-Meerkatze;Cercopithecus hamlyni;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Primaten;Primates;Bärenmakak;Macaca arctoides;2016;2;6;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;1;0;Abgabe;0;0;0;2017;2;5;0
+Primaten;Primates;Wanderu;Macaca silenus;2016;2;8;1;geboren;0;1;0;Zugänge;0;0;0;gestorben;0;2;1;Abgabe;0;0;0;2017;2;7;0
+Primaten;Primates;Ceylon-Hutaffe;Macaca sinica;2016;8;5;0;geboren;2;1;0;Zugänge;0;0;0;gestorben;0;2;1;Abgabe;0;0;0;2017;8;5;0
+Primaten;Primates;Mandrill;Mandrillus sphinx;2016;3;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;1;0;Abgabe;2;2;0;2017;2;2;0
+Primaten;Primates;Mantelpavian;Papio hamadryas;2016;14;19;4;geboren;1;1;3;Zugänge;0;0;0;gestorben;1;3;2;Abgabe;0;0;0;2017;16;20;1
+Primaten;Primates;Hulman;Semnopithecus entellus;2016;1;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;0;5;0
+Primaten;Primates;Haubenlangur;Trachypithecus auratus;2016;1;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;1;0;Abgabe;0;0;0;2017;1;2;0
+Primaten;Primates;Kappengibbon;Hylobates pileatus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Primaten;Primates;Siamang;Symphalangus syndactylus;2016;2;3;0;geboren;1;0;1;Zugänge;0;0;0;gestorben;1;0;1;Abgabe;0;2;0;2017;2;1;0
+Primaten;Primates;Westlicher Flachland-Gorilla;Gorilla gorilla gorilla;2016;1;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;4;0
+Primaten;Primates;Bonobo;Pan paniscus;2016;1;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;3;0
+Primaten;Primates;Schimpanse;Pan troglodytes;2016;2;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;3;0
+Primaten;Primates;Sumatra-Orang-Utan;Pongo pygmaeus;2016;2;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;4;0
+Nagetiere;Rodentia;Prevosts Schönhörnchen;Callosciurus prevostii rafflesii;2016;5;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;1;0;0;Abgabe;3;0;0;2017;1;1;0
+Nagetiere;Rodentia;Prevosts Schönhörnchen;Callosciurus prevostii bangkanus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Nagetiere;Rodentia;Alpenmurmeltier;Marmota marmota;2016;2;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;2;0
+Nagetiere;Rodentia;Waldmurmeltier;Marmota monax;2016;1;1;0;geboren;0;0;0;Zugänge;0;1;0;gestorben;0;0;1;Abgabe;0;0;0;2017;1;1;0
+Nagetiere;Rodentia;Europäischer Biber;Castor fiber;2016;3;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;3;0
+Nagetiere;Rodentia;Merriams Kängururatte;Dipodomys merriami;2016;2;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;1;0
+Nagetiere;Rodentia;Roborowski-Zwerghamster;Phodopus roborovskii;2016;2;2;0;geboren;5;2;0;Zugänge;0;0;0;gestorben;0;5;2;Abgabe;2;2;0;2017;2;2;0
+Nagetiere;Rodentia;Blasse Wüstenspringmaus;Gerbillus perpallidus;2016;5;12;0;geboren;3;3;0;Zugänge;0;0;0;gestorben;0;3;3;Abgabe;0;0;0;2017;5;12;0
+Nagetiere;Rodentia;Springhase;Pedetes capensis;2016;3;4;0;geboren;0;2;0;Zugänge;0;0;0;gestorben;0;0;1;Abgabe;0;0;0;2017;3;5;0
+Nagetiere;Rodentia;Graumull;Cryptomys spec. (anselli);2016;6;2;0;geboren;0;0;1;Zugänge;0;0;0;gestorben;2;0;0;Abgabe;0;0;0;2017;4;2;1
+Nagetiere;Rodentia;Westafrikanischer Quastenstachler;Atherurus africanus;2016;2;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;1;0
+Nagetiere;Rodentia;Südafrikanisches Stachelschwein;Hystrix africaeaustralis;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Nagetiere;Rodentia;Hausmeerschweinchen;Cavia aperea f. percellus;2016;0;0;15;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;0;15
+Nagetiere;Rodentia;Große Mara;Dolichotis patagonum;2016;2;0;0;geboren;0;0;0;Zugänge;0;1;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Nagetiere;Rodentia;Capybara;Hydrochaeris hydrochaeris;2016;0;1;0;geboren;0;0;0;Zugänge;2;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;0;1;0
+Nagetiere;Rodentia;Moko;Kerodon rupestris;2016;2;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;2;4;0
+Nagetiere;Rodentia;Goldaguti;Dasyprocta leporina;2016;0;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Nagetiere;Rodentia;Blaue Degu-Maus, Cururo;Spalacopus cyaneus;2016;2;1;0;geboren;1;2;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;3;0
+Nagetiere;Rodentia;Nutria;Myocastor coypus;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Hasenartige;Rodentia;Grauer Wiener;Oryctolagus cuniculus f. domestica;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Hasenartige;Rodentia;Helle Großsilber;Oryctolagus cuniculus f. domestica;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Hasenartige;Rodentia;Rheinische Schecken;Oryctolagus cuniculus f. domestica;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Hasenartige;Rodentia;Roter Neuseeländer;Oryctolagus cuniculus f. domestica;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Hasenartige;Rodentia;Zwergkaninchen Mix;Oryctolagus cuniculus f. domestica;2016;0;0;6;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;0;6
+Fledertiere;Chiroptera;Gemeiner Vampir;Desmodus rotundus;2016;1;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;4;0
+Fledertiere;Chiroptera;Spitzmaus-Langzungenfledermaus;Glossophaga soricina;2016;12;16;0;geboren;5;7;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;3;0;2017;16;20;0
+Fledertiere;Chiroptera;Brillenblattnase;Carollia perspillicata;2016;30;26;0;geboren;7;7;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;2;1;0;2017;35;32;0
+Raubtiere;Carnivora;Sandkatze;Felis margarita;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Raubtiere;Carnivora;Ozelot;Leopardus pardalis;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Raubtiere;Carnivora;Rostkatze;Prionailurus rubiginosus;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;1;2017;1;1;0
+Raubtiere;Carnivora;Löwe;Panthera leo;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Raubtiere;Carnivora;Jaguar;Panthera onca;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Raubtiere;Carnivora;Persischer Leopard;Panthera pardus saxicolor;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;2;0
+Raubtiere;Carnivora;Jaguarundi;Herpaillurus yaguaroundi;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Raubtiere;Carnivora;Ringelschwanzmungo;Galidia elegans;2016;3;3;0;geboren;0;0;0;Zugänge;0;1;0;gestorben;0;0;0;Abgabe;2;4;1;2017;2;4;1
+Raubtiere;Carnivora;Schmalstreifenmungo;Mungotictis decemlineata;2016;2;5;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;3;4;0;2017;3;4;0
+Raubtiere;Carnivora;Zwergmanguste;Helogale parvula;2016;6;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;6;3;0;2017;6;3;0
+Raubtiere;Carnivora;Erdmännchen;Suricata suricatta;2016;2;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;2;2;0;2017;2;2;0
+Raubtiere;Carnivora;Tundrawolf;Canis lupus hudsonicus;2016;3;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;2;1;0;2017;2;1;0
+Raubtiere;Carnivora;Afrikanischer Wildhund, Hyänenhund;Lycaon pictus;2016;0;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;0;0
+Raubtiere;Carnivora;Fennek;Vulpes zerda;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Raubtiere;Carnivora;Großer Panda;Ailuropoda melanoleuca;2016;0;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;1;1;0
+Raubtiere;Carnivora;Lippenbär;Melursus ursinus;2016;3;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;3;2;0;2017;3;2;0
+Raubtiere;Carnivora;Eisbär;Ursus maritimus;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Raubtiere;Carnivora;Kragenbär;Ursus thibetanus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Raubtiere;Carnivora;Südafrikanischer Seebär;Arctocephalus pusillus;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Raubtiere;Carnivora;Nördlicher Seebär;Callorhinos ursinus;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Raubtiere;Carnivora;Kalifornischer Seelöwe;Zalophus californianus;2016;1;6;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;5;0
+Raubtiere;Carnivora;Seehund;Phoca vitulina;2016;1;3;0;geboren;2;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;4;0
+Raubtiere;Carnivora;Zwergotter;Aonyx cinereus;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Raubtiere;Carnivora;Tayra;Eira barbata;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Raubtiere;Carnivora;Wickelbär;Potos flavus;2016;2;4;0;geboren;1;0;1;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;2;0
+Raubtiere;Carnivora;Roter Nasenbär;Nasua nasua;2016;0;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Unpaarhufer;Perissodactyla;Zwergesel;Equus asinus f. asinus;2016;2;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;3;0;0
+Unpaarhufer;Perissodactyla;Böhm-Zebra;Equus quagga boehmi;2016;1;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;6;0
+Unpaarhufer;Perissodactyla;Grévy-Zebra;Equus grevyi;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;2;0
+Unpaarhufer;Perissodactyla;Przewalskipferd;Equus przewalskii;2016;0;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;0;0
+Unpaarhufer;Perissodactyla;Shetland-Pony;Equus przewalskii f. caballus;2016;2;2;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;3;2;0
+Unpaarhufer;Perissodactyla;Mittelamerikanischer Tapir;Tapirus bairdii;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Unpaarhufer;Perissodactyla;Flachlandtapir;Tapirus terrestris;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;1;0
+Unpaarhufer;Perissodactyla;Spitzmaulnashorn;Diceros bicornis;2016;1;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;4;0
+Unpaarhufer;Perissodactyla;Panzernashorn;Rhinocerus unicornis;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;0;0;0
+Paarhufer;Artiodactyla;Hirscheber;Babyrousa babyrussa;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Warzenschwein;Phacochoerus africanus;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Pinselohrschwein;Potamochoerus porcus pictus;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;1;1;0
+Paarhufer;Artiodactyla;Bartschwein;Sus b. barbatus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Visaya-Pustelschwein;Sus cebifrons medinus;2016;1;1;0;geboren;0;0;0;Zugänge;1;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;1;1;0
+Paarhufer;Artiodactyla;Rotbuntes Schwein;Sus scrofa f. domestica;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Vietnamesisches Hängebauchschwein;Sus scrofa f. domestica;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;1;0
+Paarhufer;Artiodactyla;Halsbandpekari;Tayassu tajacu;2016;1;2;0;geboren;0;0;0;Zugänge;1;2;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Weißbartpekari;Tayassu pecari;2016;16;24;0;geboren;7;1;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;4;2;0;2017;19;23;0
+Paarhufer;Artiodactyla;Zwergflusspferd;Cheoropsis liberiensis;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;0;1;0
+Paarhufer;Artiodactyla;Flusspferd;Hippopotamus amphibius;2016;2;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;0;0
+Paarhufer;Artiodactyla;Dromedar;Camelus dromedarius;2016;0;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;2;0
+Paarhufer;Artiodactyla;Guanako;Lama guanicoe;2016;3;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;2;4;0
+Paarhufer;Artiodactyla;Alpaka;Lama pacos;2016;3;5;0;geboren;2;0;0;Zugänge;0;1;0;gestorben;0;0;0;Abgabe;1;1;0;2017;3;5;0
+Paarhufer;Artiodactyla;Vikugna;Vicugna vicugna;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Kleinkantschil;Tragulus javanicus;2016;2;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;2;0
+Paarhufer;Artiodactyla;Südlicher Pudu;Pudu pudu;2016;1;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;4;0
+Paarhufer;Artiodactyla;Europäisches Waldrentier;Rangifer tarandus fennicus;2016;1;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;5;0
+Paarhufer;Artiodactyla;Japan-Sikahirsch;Cervus nippon nippon;2016;0;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;5;0
+Paarhufer;Artiodactyla;Mesopotamischer Damhirsch;Dama dama mesopotamica;2016;0;0;0;geboren;3;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;0;0
+Paarhufer;Artiodactyla;Europäischer Damhirsch;Dama dama;2016;0;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;0;4;0
+Paarhufer;Artiodactyla;Südchinesischer Muntjak;Muntiacus reevesi;2016;5;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;5;0;0
+Paarhufer;Artiodactyla;Barasinghahirsch;Rucervus duvauceli;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Prinz-Alfred-Hirsch;Cervus alfredi;2016;1;2;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Chinesisches Wasserreh;Hydropotes inermis;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Netzgiraffe;Giraffa camelopardalis reticulata;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Rothschildgiraffe;Giraffa camelopardalis rothschildi;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Okapi;Okapi johnstoni;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;1;0
+Paarhufer;Artiodactyla;Blessbock;Damaliscus pygargus;2016;2;2;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;2;1;0
+Paarhufer;Artiodactyla;Springbock;Antidorcas marsupialis;2016;3;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;2;0;0
+Paarhufer;Artiodactyla;Hirschziegenantilope;Antilope cervicapra;2016;1;8;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;8;0
+Paarhufer;Artiodactyla;Südliche Giraffengazellen;Litocranius walleri;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Kirkdikdik;Madoqua kirkii;2016;3;2;0;geboren;3;0;0;Zugänge;1;0;1;gestorben;1;0;0;Abgabe;2;0;0;2017;3;2;0
+Paarhufer;Artiodactyla;Präriebison;Bison bison;2016;2;4;0;geboren;2;0;0;Zugänge;0;1;0;gestorben;0;0;0;Abgabe;1;2;0;2017;2;2;0
+Paarhufer;Artiodactyla;Wisent;Bison bonasus;2016;2;1;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;2;1;0
+Paarhufer;Artiodactyla;Java-Banteng;Bos javanicus javanicus;2016;2;6;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;5;0
+Paarhufer;Artiodactyla;Hinterwälder Rind;Bos taurus;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;3;0
+Paarhufer;Artiodactyla;Watussi-Rind;Bos taurus taurus watusi;2016;0;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;1;2;0
+Paarhufer;Artiodactyla;Vorderindischer Gaur;Bos gaurus gaurus;2016;2;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;3;0
+Paarhufer;Artiodactyla;Wasserbüffel;Bubalus bubalis;2016;2;4;0;geboren;1;1;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;2;0;2017;2;3;0
+Paarhufer;Artiodactyla;Tieflandanoa;Bubalus (Anoa) depressicornis;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;2;0;2017;1;2;0
+Paarhufer;Artiodactyla;Rotbüffel;Syncerus caffer nanus;2016;1;4;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;0;3;0
+Paarhufer;Artiodactyla;Elenantilope;Tragelaphus oryx;2016;5;5;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;4;2017;1;3;0
+Paarhufer;Artiodactyla;Nyala;Tragelaphus angasii;2016;2;3;0;geboren;1;1;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;4;0
+Paarhufer;Artiodactyla;Östlicher Bongo;Tragelaphus euryceros;2016;1;6;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;1;0
+Paarhufer;Artiodactyla;Westafrikanische Sitatunga;Tragelaphus spekei gratus;2016;4;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;2;4;0
+Paarhufer;Artiodactyla;Großer Kudu;Tragelaphus strepsiceros;2016;1;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;2;0
+Paarhufer;Artiodactyla;Sichuan-Takin;Budorcas taxicolor tibetana;2016;1;1;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;1;0;2017;1;1;0
+Paarhufer;Artiodactyla;Afrikanische Zwergziege;Capra aegragrus f. hircus;2016;0;8;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;8;0
+Paarhufer;Artiodactyla;Mischlingsziege;Capra aegragrus f. hircus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Sibirischer Steinbock;Capra ibex sibirica;2016;5;8;0;geboren;1;5;0;Zugänge;0;1;0;gestorben;0;0;0;Abgabe;1;2;0;2017;4;9;0
+Paarhufer;Artiodactyla;Himalya-Tahr;Hemitragus jemlahicus;2016;1;0;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;0;0
+Paarhufer;Artiodactyla;Coburger Fuchsschaf;Ovis ammon f. aries;2016;1;3;0;geboren;2;3;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;3;0;2017;1;3;0
+Paarhufer;Artiodactyla;Kamerunschaf;Ovis ammon f. aries;2016;1;9;0;geboren;7;5;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;9;0;2017;1;9;0
+Paarhufer;Artiodactyla;Rotducker;Cephalophus natalensis;2016;4;6;0;geboren;3;0;0;Zugänge;0;0;0;gestorben;0;2;2;Abgabe;0;0;0;2017;3;3;0
+Paarhufer;Artiodactyla;Südafrikanische Rappenantilope;Hippotragus niger niger;2016;1;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;0;0;0;2017;1;3;0
+Paarhufer;Artiodactyla;Säbelantilope;Oryx dammah;2016;2;3;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;3;0;2017;1;3;0
+Paarhufer;Artiodactyla;Südliche Oryx;Oryx gazella gazella;2016;1;6;0;geboren;1;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;0;0;2017;1;4;0
+Paarhufer;Artiodactyla;Defassa-Wasserbock;Kobus ellipsiprymnus defassa;2016;2;2;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;1;2;0;2017;1;2;0
+Paarhufer;Artiodactyla;Kafue-Litschi-Moorantilope;Kobus leche kafuensis;2016;3;9;0;geboren;0;0;0;Zugänge;0;0;0;gestorben;0;0;0;Abgabe;3;9;0;2017;3;9;0

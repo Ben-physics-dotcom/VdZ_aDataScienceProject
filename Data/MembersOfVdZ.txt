@@ -1,0 +1,192 @@
+Zoo Name,Country,State,City,Company Form
+Zoo Heidelberg,Deutschland,Baden-Württemberg,Heidelberg,
+Zoologischer Stadtgarten Karlsruhe,Deutschland,Baden-Württemberg,Karlsruhe,
+Wilhelma,Deutschland,Baden-Württemberg,Stuttgart,
+Tier-Freigelände des Nationalparks Bayerischer Wald,Deutschland,Bayern,Altschönau,
+Zoologischer Garten Augsburg,Deutschland,Bayern,Augsburg,
+Tierpark Hellabrunn,Deutschland,Bayern,München,
+Tiergarten Nürnberg,Deutschland,Bayern,Nürnberg,
+Tiergarten Straubing,Deutschland,Bayern,Straubing,
+Tierpark Berlin-Friedrichsfelde,Deutschland,Berlin,
+Zoo Berlin,Deutschland,Berlin,Berlin,AG
+Tierpark Cottbus,Deutschland,Brandenburg,Cottbus,
+Zoo Eberswalde,Deutschland,Brandenburg,Eberswalde,
+Zoo am Meer Bremerhaven,Deutschland,Bremen,Bremerhaven,
+Tierpark Hagenbeck Hamburg,Deutschland,Hamburg,Hamburg,
+
+
+Brandenburg
+
+Cottbus - Tierpark Cottbus
+
+Eberswalde - Zoo Eberswalde
+
+
+
+Bremen
+
+Bremerhaven - Zoo am Meer Bremerhaven
+
+
+
+Hamburg
+
+Hamburg - Tierpark Hagenbeck Hamburg
+
+
+
+Hessen
+
+Darmstadt - Zoo Vivarium Darmstadt
+
+Frankfurt - Zoo Frankfurt
+
+Kronberg - Opel-Zoo Kronberg
+
+
+
+Mecklenburg-Vorpommern
+
+Marlow - Vogelpark Marlow
+
+Rostock - Zoo Rostock
+
+Schwerin - Zoologischer Garten Schwerin
+
+Stralsund - Deutsches Meeresmuseum
+
+Stralsund - Zoo Stralsund
+
+Ueckermünde - Tierpark Ueckermünde
+
+
+
+Niedersachsen
+
+Hannover - Erlebniszoo Hannover
+
+Hodenhagen - Serengeti-Park Hodenhagen
+
+Nordhorn - Tierpark Nordhorn
+
+Osnabrück - Zoo Osnabrück
+
+Walsrode - Weltvogelpark Walsrode
+
+Wingst - Wingster Waldzoo
+
+
+
+Nordrhein-Westfalen
+
+Aachen - Aachener Tierpark
+
+Bochum - Tierpark und Fossilium Bochum
+
+Dortmund - Zoo Dortmund
+
+Duisburg - Zoo Duisburg
+
+Düsseldorf - Aquazoo Löbbecke Museum Düsseldorf
+
+Gelsenkirchen - ZOOM Erlebniswelt Gelsenkirchen
+
+Hamm - Tierpark Hamm
+
+Köln - Kölner Zoo
+
+Krefeld - Zoo Krefeld
+
+Münster - Allwetterzoo Münster
+
+Rheine - Naturzoo Rheine
+Wuppertal - Grüner Zoo Wuppertal
+
+
+
+Rheinland-Pfalz
+
+Landau - Zoo Landau in der Pfalz
+
+Neuwied - Zoo Neuwied
+
+
+
+Saarland
+
+Neunkirchen - Zoo Neunkirchen
+
+Saarbrücken - Zoo Saarbrücken
+
+
+
+Sachsen
+
+Chemnitz - Tierpark Chemnitz
+
+Dresden - Zoo Dresden
+
+Görlitz - Naturschutz-Tierpark Görlitz
+
+Hoyerswerda - Zoo Hoyerswerda
+
+Leipzig - Zoo Leipzig
+
+
+
+Sachsen-Anhalt
+
+Bernburg - Tiergarten Bernburg
+
+Halle - Zoologischer Garten Halle
+
+Magdeburg - Zoologischer Garten Magdeburg
+
+
+
+Schleswig-Holstein
+
+Neumünster - Tierpark Neumünster
+
+Warder - Arche Warder
+
+
+
+Thüringen
+
+Erfurt - Thüringer Zoopark Erfurt
+
+Österreich
+Herberstein - Tierwelt Herberstein
+
+Innsbruck - Alpenzoo Innsbruck
+
+Linz - Zoo Linz
+
+Salzburg - Zoo Salzburg
+
+Wien - Haus des Meeres
+
+Wien - Tiergarten Schönbrunn
+
+
+
+Schweiz
+Basel - Zoologischer Garten Basel
+
+Bern - Tierpark Bern
+
+Goldau - Natur- und Tierpark Goldau
+
+Gossau - Walter Zoo
+
+Langenberg - Stiftung Wildnispark Zürich
+
+Rapperswil - Knies Kinderzoo
+
+Zürich - Zoo Zürich
+
+
+
+Spanien
+Puerto de la Cruz - Loro Parque Teneriffa
