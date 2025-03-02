@@ -1,10 +1,28 @@
 import numpy as np
 import pandas as pd
+from tabula import read_pdf
+import os
+class Pdf2Json():
+    def __init__(self, zoo_name: str):
+        self.save_path = f'Data/{zoo_name}'
 
+        # making path if not exists
+        if not os.path.exists(self.save_path):
+            os.makedirs(self.save_path)
 
 class Berlin():
-    def __init__(self):
-        pass
+    def __init__(self, zoo_name: str):
+        self.save_path = f'Data/{zoo_name}'
+
+        # making path if not exists
+        if not os.path.exists(self.save_path):
+            os.makedirs(self.save_path)
+
+    def pdf2json(self, pdf_file: str, year: int) -> None:
+        df = read_pdf(pdf_file, pages='all')
+        for i, d in enumerate(df):
+            d.to_json(os.path.join(self.save_path, f'/{year}/table_{i}.json'))
+
 
     @staticmethod
     def str2float(df: pd.DataFrame, col: str) -> pd.DataFrame:
