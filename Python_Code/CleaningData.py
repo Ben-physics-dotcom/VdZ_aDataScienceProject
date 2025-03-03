@@ -47,13 +47,19 @@ class Pdf2Json():
             for pdf, year in zip(pdf_list, self.year_list):
                 dfs = read_pdf(pdf, pages='all')
                 for i, d in enumerate(dfs):
-                    d.to_json(os.path.join(self.save_path, f'/{year}/table_{i}.json'))
+                    if i < 10:
+                        d.to_json(os.path.join(self.save_path, f'/{year}/table_00{i}.json'))
+                    elif i < 100 and i >= 10:
+                        d.to_json(os.path.join(self.save_path, f'/{year}/table_0{i}.json'))
+                    else:
+                        d.to_json(os.path.join(self.save_path, f'/{year}/table_{i}.json'))
+
         else:
             print('Length of pdf_list and year_list must be equal.')
 
 
 class Berlin(Pdf2Json):
-    def __init__(self, zoo_name: str, starting_year: int, ending_year: int,path: str):
+    def __init__(self, zoo_name: str, starting_year: int, ending_year: int, path: str):
         super().__init__(zoo_name, starting_year, ending_year, path)
         self.save_path = f'{path}/{zoo_name}'
         self.starting_year = starting_year
@@ -69,6 +75,29 @@ class Berlin(Pdf2Json):
             for year in range(starting_year, ending_year + 1):
                 if not os.path.exists(os.path.join(self.save_path, f'{year}')):
                     os.makedirs(os.path.join(self.save_path, f'{year}'))
+
+    def correcting_files(self, year: int) -> None:
+        """
+        Description: Correcting the files for the year 2007 and 2008
+        """
+        files = [f for f in os.listdir(f'{self.save_path}/{year}') if f.endswith('.json') and f.startswith('table_')]
+        for file in files:
+            parts = file.split('_')
+            if len(parts) != 2:
+                continue
+
+            try:
+                number = int(parts[1].split('.')[0])
+            except ValueError:
+                continue
+
+            new_name = f'table_{number:03d}.json'
+
+            newpath = os.path.join(f'{self.save_path}/{year}', new_name)
+
+            # Renaming
+            os.rename(os.path.join(f'{self.save_path}/{year}', file), newpath)
+
 
     @staticmethod
     def str2float(df: pd.DataFrame, col: str) -> pd.DataFrame:
