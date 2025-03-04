@@ -65,6 +65,16 @@ class Berlin(Pdf2Json):
         self.starting_year = starting_year
         self.ending_year = ending_year
         self.year_list = list(range(starting_year, ending_year + 1))
+        self.name_dict = {
+            0: 'Zoo',
+            1: 'Aquarium',
+            2: "Zoo_Aquarium",
+            3: 'Tierpark'
+        }
+        self.tickets_types = [
+            'Erwachsene', 'Erm#ßigte',
+            'Kinder', 'Andere Eintrittsgelder'
+        ]
 
         # making path if not exists
         if not os.path.exists(self.save_path):
@@ -98,6 +108,13 @@ class Berlin(Pdf2Json):
             # Renaming
             os.rename(os.path.join(f'{self.save_path}/{year}', file), newpath)
 
+    @staticmethod
+    def value_replacements(df: pd.DataFrame, rows: list, col: int, col_replacements: list):
+        if len(rows) == len(col_replacements):
+            for i in range(len(rows)):
+                df.iloc[rows[i], col] = col_replacements[i]
+        else:
+            print('Row list and Column replacements must have the same length.')
 
     @staticmethod
     def str2float(df: pd.DataFrame, col: str) -> pd.DataFrame:
@@ -129,5 +146,5 @@ class Berlin(Pdf2Json):
         df = df.rename(columns={f'Eintrittskarten {year}': 'Eintrittskarten',
                                 f'Eintrittskarten {past_year}': 'Eintrittskarten_Vorjahr'})
         cols = df.columns.tolist()
-        df = df[[cols[1], 'Jahr', 'Eintrittskarten', 'Vorjahr', 'Eintrittskarten_Vorjahr', '+/- Vorjahr in %']]
+        df = df[[cols[0], 'Jahr', 'Eintrittskarten', 'Vorjahr', 'Eintrittskarten_Vorjahr', '+/- Vorjahr in %']]
         return df
