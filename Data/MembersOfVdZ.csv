@@ -1,30 +1,30 @@
 ID,Zoo Name,Country,State,City,Company Form
-1,Zoo Heidelberg,DE,BW,Heidelberg,
-2,Zoologischer Stadtgarten Karlsruhe,DE,BW,Karlsruhe,
-3,Wilhelma,DE,BW,Stuttgart,
+1,Zoo Heidelberg,DE,BW,Heidelberg,gGmbH
+2,Zoologischer Stadtgarten Karlsruhe,DE,BW,Karlsruhe,Stadt
+3,Wilhelma,DE,BW,Stuttgart,BW
 4,Tier-Freigelände des Nationalparks Bayerischer Wald,DE,BY,Altschönau,
-5,Zoologischer Garten Augsburg,DE,BY,Augsburg,
-6,Tierpark Hellabrunn,DE,BY,München,
-7,Tiergarten Nürnberg,DE,BY,Nürnberg,
-8,Tiergarten Straubing,DE,BY,Straubing,
+5,Zoologischer Garten Augsburg,DE,BY,Augsburg,GmbH
+6,Tierpark Hellabrunn,DE,BY,München,AG
+7,Tiergarten Nürnberg,DE,BY,Nürnberg,Stadt
+8,Tiergarten Straubing,DE,BY,Straubing,Stadt
 9,Tierpark Berlin-Friedrichsfelde,DE,BE,Berlin,AG
 10,Zoo Berlin,DE,BY,Berlin,AG
-11,Tierpark Cottbus,DE,BB,Cottbus,
-12,Zoo Eberswalde,DE,BB,Eberswalde,
-13,Zoo am Meer Bremerhaven,DE,HB,Bremerhaven,
-14,Tierpark Hagenbeck Hamburg,DE,HH,Hamburg,
-15,Zoo Vivarium Darmstadt,DE,HE,Darmstadt,
-16,Zoo Frankfurt,DE,HE,Frankfurt,
-17,Opel-Zoo Kronberg,DE,HE,Kronberg,
-18,Vogelpark Marlow,DE,MV,Marlow,
-19,Zoo Rostock,DE,MV,Rostock,
-20,Zoologischer Garten Schwerin,DE,MV,Schwerin,
-21,Deutsches Meeresmuseum,DE,MV,Stralsund,
-22,Zoo Stralsund,DE,MV,Stralsund,
-23,Tierpark Ueckermünde,DE,MV,Ueckermünde,
+11,Tierpark Cottbus,DE,BB,Cottbus,Stadt
+12,Zoo Eberswalde,DE,BB,Eberswalde,Stadt
+13,Zoo am Meer Bremerhaven,DE,HB,Bremerhaven,GmbH
+14,Tierpark Hagenbeck Hamburg,DE,HH,Hamburg,gGmbH
+15,Zoo Vivarium Darmstadt,DE,HE,Darmstadt,Stadt
+16,Zoo Frankfurt,DE,HE,Frankfurt,Stadt
+17,Opel-Zoo Kronberg,DE,HE,Kronberg,gemeinnützige Stiftung
+18,Vogelpark Marlow,DE,MV,Marlow,gGmbH
+19,Zoo Rostock,DE,MV,Rostock,gGmbH
+20,Zoologischer Garten Schwerin,DE,MV,Schwerin,gGmbH
+21,Deutsches Meeresmuseum,DE,MV,Stralsund,Stiftung
+22,Zoo Stralsund,DE,MV,Stralsund,Stadt
+23,Tierpark Ueckermünde,DE,MV,Ueckermünde,e. V.
 24,Erlebniszoo Hannover,DE,NI,Hannover,
-25,Serengeti-Park Hodenhagen,DE,NI,Hodenhagen,
-26,Tierpark Nordhorn,DE,NI,Nordhorn,
+25,Serengeti-Park Hodenhagen,DE,NI,Hodenhagen,GmbH
+26,Tierpark Nordhorn,DE,NI,Nordhorn,gGmbH
 27,Zoo Osnabrück,DE,NI,Osnabrück,
 28,Weltvogelpark Walsrode,DE,NI,Walsrode,
 29,Wingster Waldzoo,DE,NI,Wingst,
@@ -67,4 +67,5 @@ ID,Zoo Name,Country,State,City,Company Form
 66,Walter Zoo,CH,,Gossau,
 67,Stiftung Wildnispark Zürich,CH,,Langenberg,
 68,Zoo Zürich,CH,,Zürich,
-69,Loro Parque,ES,,Teneriffa,
+69,Loro Parque,ES,,Puerto de la Cruz,
+70,Knies Kinderzoo,CH,,Rapperswil,
