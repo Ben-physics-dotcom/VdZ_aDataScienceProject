@@ -53,19 +53,19 @@ ID,Zoo Name,Country,State,City,Company Form
 52,Zoologischer Garten Halle,DE,Sachsen-Anhalt,Halle,GmbH
 53,Zoologischer Garten Magdeburg,DE,Sachsen-Anhalt,Magdeburg,gGmbH
 54,Tierpark Neumünster,DE,Schleswig-Holstein,Neumünster,e. V.
-55,Arche Warder,DE,Schleswig-Holstein,Warder,
-56,Thüringer Zoopark Erfurt,DE,Thüringen,Erfurt,
-57,Tierwelt Herberstein,AT,,,
+55,Arche Warder,DE,Schleswig-Holstein,Warder,e. V.
+56,Thüringer Zoopark Erfurt,DE,Thüringen,Erfurt,Stadt
+57,Tierwelt Herberstein,AT,,Herberstein,GmbH
 58,Alpenzoo Innsbruck,AT,,Innsbruck,
-59,Zoo Linz,AT,,Linz,
-60,Zoo Salzburg,AT,,Salzburg,
-61,Haus des Meeres,AT,,Wien,
-62,Tiergarten Schönbrunn,AT,,Wien,
+59,Zoo Linz,AT,,Linz,e. V.
+60,Zoo Salzburg,AT,,Salzburg,gGmbH
+61,Haus des Meeres,AT,,Wien,GmbH
+62,Tiergarten Schönbrunn,AT,,Wien,GmbH
 63,Zoologischer Garten Basel,CH,,Basel,
 64,Tierpark Bern,CH,,Bern,
 65,Natur- und Tierpark Goldau,CH,,Goldau,
-66,Walter Zoo,CH,,Gossau,
-67,Stiftung Wildnispark Zürich,CH,,Langenberg,
-68,Zoo Zürich,CH,,Zürich,
+66,Walter Zoo,CH,,Gossau,AG
+67,Stiftung Wildnispark Zürich,CH,,Langenberg,Stiftung
+68,Zoo Zürich,CH,,Zürich,AG
 69,Loro Parque,ES,,Puerto de la Cruz,
 70,Knies Kinderzoo,CH,,Rapperswil,
