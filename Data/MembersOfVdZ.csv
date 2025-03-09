@@ -8,7 +8,7 @@ ID,Zoo Name,Country,State,City,Company Form
 7,Tiergarten Nürnberg,DE,BY,Nürnberg,Stadt
 8,Tiergarten Straubing,DE,BY,Straubing,Stadt
 9,Tierpark Berlin-Friedrichsfelde,DE,BE,Berlin,AG
-10,Zoo Berlin,DE,BY,Berlin,AG
+10,Zoo Berlin,DE,BE,Berlin,AG
 11,Tierpark Cottbus,DE,BB,Cottbus,Stadt
 12,Zoo Eberswalde,DE,BB,Eberswalde,Stadt
 13,Zoo am Meer Bremerhaven,DE,HB,Bremerhaven,GmbH
@@ -28,32 +28,32 @@ ID,Zoo Name,Country,State,City,Company Form
 27,Zoo Osnabrück,DE,NI,Osnabrück,gGmbH
 28,Weltvogelpark Walsrode,DE,NI,Walsrode,
 29,Wingster Waldzoo,DE,NI,Wingst,GmbH
-30,Aachener Tierpark,DE,Nordrhein-Westfalen,Aachen,AG
-31,Tierpark und Fossilium Bochum,DE,Nordrhein-Westfalen,Bochum,gGmbH
-32,Zoo Dortmund,DE,Nordrhein-Westfalen,Dortmund,Stadt
-33,Zoo Duisburg,DE,Nordrhein-Westfalen,Duisburg,gGmbH
-34,Aquazoo Löbbecke Museum Düsseldorf,DE,Nordrhein-Westfalen,Düsseldorf,Stadt
-35,ZOOM Erlebniswelt Gelsenkirchen,DE,Nordrhein-Westfalen,Gelsenkirchen,GmbH
-36,Tierpark Hamm,DE,Nordrhein-Westfalen,Hamm,gGmbH
-37,Kölner Zoo,DE,Nordrhein-Westfalen,Köln,AG
-38,Zoo Krefeld,DE,Nordrhein-Westfalen,Krefeld,gGmbH
-39,Allwetterzoo Münster,DE,Nordrhein-Westfalen,Münster,GmbH
-40,Naturzoo Rheine,DE,Nordrhein-Westfalen,Rheine,e. V.
-41,Grüner Zoo Wuppertal,DE,Nordrhein-Westfalen,Wuppertal,Stadt
-42,Zoo Landau in der Pfalz,DE,Rheinland-Pfalz,Landau,
-43,Zoo Neuwied,DE,Rheinland-Pfalz,Neuwied,e. V.
-44,Zoo Neunkirchen,DE,Saarland,Neunkirchen,GmbH
-45,Zoo Saarbrücken,DE,Saarland,Saarbrücken,Stadt
-46,Tierpark Chemnitz,DE,Sachsen,Chemnitz,Stadt
-47,Zoo Dresden,DE,Sachsen,Dresden,GmbH
-48,Naturschutz-Tierpark Görlitz,DE,Sachsen,Görlitz,e. V.
-49,Zoo Hoyerswerda,DE,Sachsen,Hoyerswerda,GmbH
-50,Zoo Leipzig,DE,Sachsen,Leipzig,GmbH
-51,Tiergarten Bernburg,DE,Sachsen-Anhalt,Bernburg,GmbH
-52,Zoologischer Garten Halle,DE,Sachsen-Anhalt,Halle,GmbH
-53,Zoologischer Garten Magdeburg,DE,Sachsen-Anhalt,Magdeburg,gGmbH
-54,Tierpark Neumünster,DE,Schleswig-Holstein,Neumünster,e. V.
-55,Arche Warder,DE,Schleswig-Holstein,Warder,e. V.
+30,Aachener Tierpark,DE,NW,Aachen,AG
+31,Tierpark und Fossilium Bochum,DE,NW,Bochum,gGmbH
+32,Zoo Dortmund,DE,NW,Dortmund,Stadt
+33,Zoo Duisburg,DE,NW,Duisburg,gGmbH
+34,Aquazoo Löbbecke Museum Düsseldorf,DE,NW,Düsseldorf,Stadt
+35,ZOOM Erlebniswelt Gelsenkirchen,DE,NW,Gelsenkirchen,GmbH
+36,Tierpark Hamm,DE,NW,Hamm,gGmbH
+37,Kölner Zoo,DE,NW,Köln,AG
+38,Zoo Krefeld,DE,NW,Krefeld,gGmbH
+39,Allwetterzoo Münster,DE,NW,Münster,GmbH
+40,Naturzoo Rheine,DE,NW,Rheine,e. V.
+41,Grüner Zoo Wuppertal,DE,NW,Wuppertal,Stadt
+42,Zoo Landau in der Pfalz,DE,RP,Landau,
+43,Zoo Neuwied,DE,RP,Neuwied,e. V.
+44,Zoo Neunkirchen,DE,SL,Neunkirchen,GmbH
+45,Zoo Saarbrücken,DE,SL,Saarbrücken,Stadt
+46,Tierpark Chemnitz,DE,SN,Chemnitz,Stadt
+47,Zoo Dresden,DE,SN,Dresden,GmbH
+48,Naturschutz-Tierpark Görlitz,DE,SN,Görlitz,e. V.
+49,Zoo Hoyerswerda,DE,SN,Hoyerswerda,GmbH
+50,Zoo Leipzig,DE,SN,Leipzig,GmbH
+51,Tiergarten Bernburg,DE,ST,Bernburg,GmbH
+52,Zoologischer Garten Halle,DE,ST,Halle,GmbH
+53,Zoologischer Garten Magdeburg,DE,ST,Magdeburg,gGmbH
+54,Tierpark Neumünster,DE,SH,Neumünster,e. V.
+55,Arche Warder,DE,SH,Warder,e. V.
 56,Thüringer Zoopark Erfurt,DE,Thüringen,Erfurt,Stadt
 57,Tierwelt Herberstein,AT,,Herberstein,GmbH
 58,Alpenzoo Innsbruck,AT,,Innsbruck,
