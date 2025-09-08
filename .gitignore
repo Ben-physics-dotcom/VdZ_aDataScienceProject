@@ -2,9 +2,9 @@
 ###########  FILES  ############
 ################################
 *.exe
-Notizen.txt
-.json
-.csv
+*.txt
+*.json
+*.csv
 *.pkl
 *.pickle
 
