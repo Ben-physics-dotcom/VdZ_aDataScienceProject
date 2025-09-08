@@ -1,3 +1,7 @@
 # VdZ Data Science Project
 
-VdZ: Verband deutscher zoologischer Gärten.
+## Acronyms
+
+- VdZ: Verband deutscher zoologischer Gärten.
+- GB: Geschäftsbericht
+- JB: Jahresbericht
